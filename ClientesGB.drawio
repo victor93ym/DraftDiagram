@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-03-02T16:30:11.761Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="1yBststQ1lXzf2fWviZv" version="12.7.9" type="github">
+<mxfile host="www.draw.io" modified="2020-03-02T22:06:40.152Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="Ue7Zg9ZM2MNTxQQV5Ro4" version="12.7.9" type="github">
   <diagram name="Page-1" id="74b105a0-9070-1c63-61bc-23e55f88626e">
-    <mxGraphModel dx="1108" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="713" dy="406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -454,6 +454,9 @@
         </mxCell>
         <mxCell id="uyuvOlKixXw5FJsMRcq0-138" value="&lt;b&gt;&lt;font color=&quot;#0000cc&quot; style=&quot;font-size: 16px&quot;&gt;Ventas del Último mes&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="100" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uyuvOlKixXw5FJsMRcq0-139" value="clientes con venta y in venta" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="21" width="170" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
